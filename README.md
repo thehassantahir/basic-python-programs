@@ -35,18 +35,11 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-Faceboom is a brute force application built on python 2.7 later upgraded to 3.6 which enables the tester to enter the victims account by using their API, it uses various libraries like optparse, re and more.
-
-How does it work?:
-* Faceboom is social engineering application, User can only hack the victims account if they are good in guessing and assuming other people trades and values.
-* It uses wordlist to perform a sucessful hack, all the way the user have to update the wordlist.txt file which is already provided to make a hack attempt.
-
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
-
+Python is a programming language with a lot of variants available. It can be used in quantum computing, software, web and game development, artificial intelligence, scientific and numerical applications and more.
 ### Built With
 
 * [Python](https://www.python.org/)
+* 
 
 <!-- GETTING STARTED -->
 ## Getting Started
