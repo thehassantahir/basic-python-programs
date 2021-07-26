@@ -34,7 +34,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-
 Python is a programming language with a lot of variants available. It can be used in Quantum Computing, Software, Web and Game development, Artificial Intelligence, Scientific & Numerical Applications and more.
 
 ### Built With
@@ -61,7 +60,8 @@ FIrst of all you need to install python with the version of 3 and git in your sy
   ```
 * if you are using windows then install from https://git-scm.com/downloads
 
-
+### How to use the programs?
+Open any of the application you want to use and read the usage description in their respective README.md files
 
 <!-- CONTRIBUTING -->
 ## Contributing
