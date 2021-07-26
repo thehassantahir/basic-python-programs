@@ -23,6 +23,7 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -35,10 +36,10 @@
 ## Project Description
 
 Python is a programming language with a lot of variants available. It can be used in Quantum Computing, Software, Web and Game development, Artificial Intelligence, Scientific & Numerical Applications and more.
-
 ### Built With
 
 * [Python](https://www.python.org/)
+* 
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -47,10 +48,10 @@ How to get this application run?
 
 ### Prerequisites
 
-FIrst of all you need to install python with the version of 3 and git in your system.
+FIrst of all you need to install python with the version of 3.6 and git in your system.
 * For installing python in linux 
   ```sh
-  sudo apt install python3
+  sudo apt install python
   ```
 * if you are using windows then install python from python.org
 
@@ -60,8 +61,6 @@ FIrst of all you need to install python with the version of 3 and git in your sy
   ```
 * if you are using windows then install from https://git-scm.com/downloads
 
-### How to use the programs?
-Open any of the application you want to use and read the usage description in their respective README.md files
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -79,7 +78,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GPL 3.0 License. See `LICENSE` for more information.
 
 
 <!-- CONTACT -->
