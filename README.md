@@ -34,7 +34,8 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-Python is a programming language with a lot of variants available. It can be used in quantum computing, software, web and game development, artificial intelligence, scientific and numerical applications and more.
+
+Python is a programming language with a lot of variants available. It can be used in Quantum Computing, Software, Web and Game development, Artificial Intelligence, Scientific & Numerical Applications and more.
 
 ### Built With
 
