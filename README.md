@@ -35,8 +35,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Project Description
 
-<img src="https://github.com/hassan-tahir/Faceboom/blob/master/img/faceboom.jpg">
-
 Faceboom is a brute force application built on python 2.7 later upgraded to 3.6 which enables the tester to enter the victims account by using their API, it uses various libraries like optparse, re and more.
 
 How does it work?:
