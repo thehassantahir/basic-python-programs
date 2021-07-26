@@ -12,7 +12,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#project-description">Project Description</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -33,7 +33,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Project Description
 
 <img src="https://github.com/hassan-tahir/Faceboom/blob/master/img/faceboom.jpg">
 
@@ -49,9 +49,7 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Built With
 
 * [Python](https://www.python.org/)
-* [pip](https://www.python.org/)
-
-
+* 
 
 <!-- GETTING STARTED -->
 ## Getting Started
