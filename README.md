@@ -1,11 +1,11 @@
-# BASIC PYTHON APPLICATIONS
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
-
-
+<p align="center">
+<img src="https://github.com/hassan-tahir/basic-python-programs/blob/main/imgs/logo.png" >
+</p>
+  <h1 align="center">BASIC PYTHON APPLICATIONS</h1>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
