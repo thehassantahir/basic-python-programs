@@ -23,7 +23,6 @@
         <li><a href="#prerequisites">Prerequisites</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -36,10 +35,10 @@
 ## Project Description
 
 Python is a programming language with a lot of variants available. It can be used in quantum computing, software, web and game development, artificial intelligence, scientific and numerical applications and more.
+
 ### Built With
 
 * [Python](https://www.python.org/)
-* 
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -48,10 +47,10 @@ How to get this application run?
 
 ### Prerequisites
 
-FIrst of all you need to install python with the version of 3.6 and git in your system.
+FIrst of all you need to install python with the version of 3 and git in your system.
 * For installing python in linux 
   ```sh
-  sudo apt install python
+  sudo apt install python3
   ```
 * if you are using windows then install python from python.org
 
@@ -61,42 +60,7 @@ FIrst of all you need to install python with the version of 3.6 and git in your 
   ```
 * if you are using windows then install from https://git-scm.com/downloads
 
-* * Install pip for python
-  ```sh
-  python install pip
-  ```
-  OR
-  ```sh
-  sudo apt install pip
-  ```
-* Install request for python
-  ```sh
-  pip install requests
-  ```
-* Install mechanize for python
-  ```sh
-  pip install mechanize
-  ```
 
-### Usage
-
-1. This program does not requie any installation because of run-time.
-2. Clone the repo
-   ```sh
-   git clone https://github.com/hassan-tahir/faceboom
-   ```
-3. Get into the directory of the program
-   ```sh
-   cd faceboom
-   ```
-4. Run your program
-   ```sh
-   python3 faceboom.py
-   ```
-5. Check the PATH and WAY
-   ```sh
-   python3 faceboom.py -h
-   ```
 
 <!-- CONTRIBUTING -->
 ## Contributing
