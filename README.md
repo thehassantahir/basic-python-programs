@@ -87,8 +87,6 @@ Distributed under the GPL 3.0 License. See `LICENSE` for more information.
 
 Author Twitter - [@Hassan tahir](https://twitter.com/hassan_tahir_)
 
-Project Link: [https://github.com/hassan-tahir/faceboom](https://github.com/hassan-tahir/faceboom)
-
 Website Link: [https://hassan-tahir.github.io](hassantahir)
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
